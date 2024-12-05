@@ -15,3 +15,5 @@ N
 contracts/resource-market.clar,c/e/cea5ee5d8abbf7ff877d422792aaed56361ddd23
 O
 tests/space-data-oracle.test.ts,2/1/215c2a71011894f78ef8f73aba98827ae3c783dc
+M
+tests/resource-market.test.ts,c/2/c24f378690ebc2938357fe0ce1589cdb88c6efdf
