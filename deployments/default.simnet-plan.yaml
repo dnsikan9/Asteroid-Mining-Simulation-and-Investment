@@ -60,6 +60,11 @@ plan:
             path: contracts/mining-simulation.clar
             clarity-version: 2
         - emulated-contract-publish:
+            contract-name: resource-market
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/resource-market.clar
+            clarity-version: 2
+        - emulated-contract-publish:
             contract-name: space-data-oracle
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/space-data-oracle.clar

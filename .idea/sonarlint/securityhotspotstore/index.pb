@@ -13,3 +13,5 @@ O
 tests/mining-simulation.test.ts,2/5/25df27e1f12d19ebb029d9c3d02fb296b58e8854
 N
 contracts/resource-market.clar,c/e/cea5ee5d8abbf7ff877d422792aaed56361ddd23
+O
+tests/space-data-oracle.test.ts,2/1/215c2a71011894f78ef8f73aba98827ae3c783dc
