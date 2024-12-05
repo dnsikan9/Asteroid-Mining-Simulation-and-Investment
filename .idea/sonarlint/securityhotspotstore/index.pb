@@ -11,3 +11,5 @@ Q
 !tests/asteroid-mining-nft.test.ts,6/c/6c4f833f09743934002e3fab19eeb11f7088956b
 O
 tests/mining-simulation.test.ts,2/5/25df27e1f12d19ebb029d9c3d02fb296b58e8854
+N
+contracts/resource-market.clar,c/e/cea5ee5d8abbf7ff877d422792aaed56361ddd23
