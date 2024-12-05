@@ -17,3 +17,7 @@ O
 tests/space-data-oracle.test.ts,2/1/215c2a71011894f78ef8f73aba98827ae3c783dc
 M
 tests/resource-market.test.ts,c/2/c24f378690ebc2938357fe0ce1589cdb88c6efdf
+I
+contracts/governance.clar,3/e/3e11ff9ecf5cff40241c69670308e29f84df23b7
+H
+tests/governance.test.ts,c/e/ce14344de9ea9b63c3c2c3228c80d12874bc7dff
